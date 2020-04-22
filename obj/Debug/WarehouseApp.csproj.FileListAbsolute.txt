@@ -1,0 +1,20 @@
+C:\Users\nabee\source\repos\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+C:\Users\nabee\source\repos\WarehouseApp\bin\Debug\WarehouseApp.exe
+C:\Users\nabee\source\repos\WarehouseApp\bin\Debug\WarehouseApp.pdb
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.csprojAssemblyReference.cache
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.Form1.resources
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.Form2.resources
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.cache
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.exe
+C:\Users\nabee\source\repos\WarehouseApp\obj\Debug\WarehouseApp.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\bin\Debug\WarehouseApp.exe.config
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\bin\Debug\WarehouseApp.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\bin\Debug\WarehouseApp.pdb
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.csprojAssemblyReference.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.Form1.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.Form2.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.Properties.Resources.resources
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.csproj.GenerateResource.cache
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.exe
+C:\Users\Alex\Documents\Sheridan\Winter 2020\PROG 37721 Web Services Using .NET & C# Programming\WarehouseApp\obj\Debug\WarehouseApp.pdb
